@@ -1,0 +1,76 @@
+# Site
+title:              dr. rachael ainsworth
+bio:                'radio astronomer, open science champion, <br>her+data mcr organiser, tech future female leader.'
+description:        "radio astronomer, open science champion, her+data mcr organiser, tech future female leader."
+reading_time:       true
+words_per_minute:   200
+logo:               'assets/img/profile2.png'
+#background:         'assets/img/background.JPG'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             en_UK
+url:                https://rainsworth.github.io
+
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# Comments
+disqus_shortname:   rainsworth
+
+# Social
+# if you don't have any of social below, comment the line.
+google:
+  #plus:            #username
+  analytics:       'UA-90951103-1'
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+#email:
+twitter:            rachaelevelyn
+facebook:           rachael.ainsworth
+github-url:         rainsworth
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          rachaelainsworth
+#xing:              username
+instagram:          rachaelevelyn
+#lastfm:            username
+#tumblr:            username
+medium:            '@rainsworth'
+#pinterest:         username
+#foursquare:        username
+#steam:              username
+#dribbble:          username
+#youtube:           username
+#youtube-channel:   channel
+#soundcloud:        username
+#weibo:             username
+#flickr:            username
+#codepen:           username
+#keybase:           username
+#xmpp:              username@server.com
+#hackernews:        username
+
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
