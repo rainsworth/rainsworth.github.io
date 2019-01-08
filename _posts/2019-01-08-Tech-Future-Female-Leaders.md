@@ -12,10 +12,9 @@ comments: true
 
 The leaky pipeline - [where fewer women are found at increasingly senior levels of academia](https://wonkhe.com/blogs/considering-the-leaky-pipeline-are-we-missing-the-point-on-leadership-diversity/) - is a well known problem; I only have to look around the department I work in at the University of Manchester to witness it first-hand. During the [2016-17 academic year](https://www.advance-he.ac.uk/resources/2018_HE-stats-report-staff.pdf), the majority of first degree undergraduate students in the UK were female at 55.7%, whereas the percentage of professors who were female was only 24.6%. The statistics are significantly more discouraging for non-white academics.
 
-<figure class="half">
-    <a href="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/AdvanceHE009.png"><img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/AdvanceHE009.png"></a>
-    <a href="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/AdvanceHE010.png"><img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/AdvanceHE010.png"></a>
-</figure>
+![https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/AdvanceHE009.png](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/AdvanceHE009.png)
+
+![https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/AdvanceHE010.png](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/AdvanceHE010.png)
 
 Tech similarly suffers from a leaky pipeline; [PwC reported](https://www.pwc.co.uk/who-we-are/women-in-technology/time-to-close-the-gender-gap.html) that only 5% of leadership positions in the technology sector are held by women. Over a quarter of female students say they’ve been put off a career in technology as it’s too male dominated - the lack of female role models reinforces the perception that it isn’t for them. I've been to countless academic and tech events that were dominated by male speaking panels and organising committees (and audience members as a result). As a woman in STEM, I find these atmospheres to be quite suffocating, I struggle to network and I lack the confidence to promote my work.
 
@@ -39,11 +38,9 @@ I immediately got in touch with Beckie as the programme aims really resonated wi
 
 The first workshop kicked off on September 25 in the PwC offices at No.1 Spinningfields with the first cohort comprising of 12 incredible women from across tech including developers, managers, Heads of Delivery/Web/Technology, CTOs, and one academic - me. The theme was "Your Journey", with a focus on self-awareness, your values, and defining success. We were presented with our personalised [Lumina Spark](https://luminalearning.com/products/lumina-spark) portraits and a workbook to help us identify our strengths and how we can use and adapt these in our communication and in different environments. Normally I would be skeptical about a personality test, but I found the portrait to be really helpful in shifting my mindset to focus on what I can bring to the table based on my strengths instead of dwelling on my weaknesses and comparing myself to others (hello imposter syndrome!). It was also instructive on how to work and communicate with different personas, and the value of this kind of diversity on a team. Crucially, we examined how our behaviour changes when we are overextended or under pressure, and how to best work through that type of situation based on our personas.
 
-<figure>
-	<a href="https://xyz.luminalearning.com/Xq9SPqmgaoxVE2kOI"><img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/splash.png">
-	<figcaption><a href="https://xyz.luminalearning.com/Xq9SPqmgaoxVE2kOI">My Lumina Splash</a>, a visual representation of my personality calculated using my Lumina Spark aspect scores. <i>Rachael will often try and accommodate the needs of others, even if this means that Rachael needs to make sacrifices. However, this is tempered by a logical assessment of each situation so that Rachael can avoid feeling exploited.</i></figcaption>
-</figure>
+![https://xyz.luminalearning.com/Xq9SPqmgaoxVE2kOI](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/splash.png)
 
+My [Lumina Splash](https://xyz.luminalearning.com/Xq9SPqmgaoxVE2kOI), a visual representation of my personality calculated using my Lumina Spark aspect scores: <i>Rachael will often try and accommodate the needs of others, even if this means that Rachael needs to make sacrifices. However, this is tempered by a logical assessment of each situation so that Rachael can avoid feeling exploited.</i>
 
 During the first workshop, we also defined our values and what success means to us. For me, success would be:
 
@@ -53,39 +50,24 @@ During the first workshop, we also defined our values and what success means to 
 - support others in a meaningful way; and
 - being a role model!
 
-<figure>
-<a href="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop1.jpeg"><img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop1.jpeg"></a>
-</figure>
-
-<figure>
-<img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/TFFL1.mp4">
-</figure>
-
+![https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop1.jpeg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop1.jpeg)
 
 #### Workshop 2: Building Confidence
 
 The second workshop on "Building Confidence" was therefore the one I was most looking forward to. Victoria Masso, Director of [Behaviour Hackers](https://behaviourhackers.com/) led this session on defining impostor syndrome, recognising it, and learning how to manage and grow your professional and personal confidence. We identified our self-limiting patterns, what situations are most likely to trigger imposter syndrome, how we currently respond to these feelings and developed a strategy for developing a new confident, non-imposter self. One of the most empowering exercises of the session was building a list of our achievements without qualifiers - what we accomplished without the "but". Sounds simple, but as women we tend to downplay our accomplishments so as not to appear boastful. For example, "I interned at NASA... but I had to take a semester out of university to do it." → "I interned at NASA." Full stop. Unless you are following with "I am a badass". Acknowledging and celebrating your achievements along with your daily "little wins" is one simple way to start building confidence.
 
-<figure>
-<a href="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop2.jpeg"><img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop2.jpeg"></a>
-</figure>
-
-<iframe width="504" height="284" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6463796387753582592?compact=1" frameborder="0"> </iframe>
+![https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop2.jpeg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop2.jpeg)
 
 #### Workshop 3: Personal Brand
 
 "Personal Brand" was the theme of the third workshop, and [Penny Haslam](http://pennyhaslam.co.uk/) coached us on how to "Make yourself a little bit famous" and gain exposure for our expertise in order to become a role model in the industry. She gave us practical advice on how to structure our points for most effective communication through the [FACE](http://pennyhaslam.co.uk/index.php/use-face-to-showcase-expertise/) method and tips for cultivating your brand on social media. She also coached us through a practical panel session, which was extremely useful as we learned how to prepare, chair and participate on a panel as well as how to keep an audience engaged. I was able to put these lessons learned to the test the following week as I was invited to be on the panel at the [Women In Tech Christmas Bonanza](https://hellosoda.com/women-tech-christmas-bonanza-round-up/) where we discussed the topic *Are we in an Echo Chamber? Our thoughts on female based events and encouraging friends and allies*. Thanks to this TFFL session, I felt confident going into the panel and thoroughly enjoyed the discussion. I have also been invited to be on the [Research and Scholarly Publishing Forum](https://www.londonbookfair.co.uk/en/Whats-On/conferences/research-and-scholarly-forum1/) panel at the London Book Fair in March 2019!
 
-<figure class="half">
-    <a href="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop3.1.jpeg"><img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop3.1.jpeg"></a>
-    <a href="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop3.2.jpeg"><img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop3.2.jpeg"></a>
-</figure>
+![https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop3.1.jpeg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop3.1.jpeg)
 
-<figure>
-<a href="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/panel.jpeg"><img src="https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/panel.jpeg"></a>
-</figure>
+![https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop3.2.jpeg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop3.2.jpeg)
 
-<iframe width="504" height="284" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6479302510837317632?compact=1" frameborder="0"> </iframe>
+![https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/panel.jpeg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/panel.jpeg)
+
 
 #### Workshop 4: Technical Leadership
 
@@ -98,3 +80,10 @@ The theme of the final session was "Technical Leadership" where James Heggs of [
 Through the TFFL programme I have been able to identify my own natural strengths and how to adapt these within my role as a Research Associate at the University of Manchester. For example, I knew I was passionate about openness and inclusion in research, but learning how my people focused strengths can positively benefit a team has been incredibly empowering - it helps me see where I fit within the team and reduces imposter syndrome. I've also learned a lot about building my personal brand and developing my voice around my expertise, in particular around advocating open research practices and empowering women in STEM. That this professional development course was conducted external to the University added value, as the diversity of topics covered and perspectives of the women within the cohort are ultimately what made this programme so engaging and successful. I am now able to bring this development back into academia, apply it to my current projects and build my future teams with a fresh approach. I have gained confidence within the workplace, increased exposure for my expertise, received invitations to speak at various events, and have built a support network across Greater Manchester. These connections will foster collaboration and help maximise the impact and reach of work conducted here at the University of Manchester.
 
 Applications are now open for cohort 2 starting in early 2019, so please get in touch with [Beckie](https://www.linkedin.com/in/beckie-taylor-92840712/) if you would like to get on board or feel free to comment below/[tweet at me](https://twitter.com/rachaelevelyn) with any questions!
+
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6455361280889937920?compact=1" allowfullscreen="" width="504" height="284" frameborder="0"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6463796387753582592?compact=1" allowfullscreen="" width="504" height="284" frameborder="0"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6479302510837317632?compact=1" allowfullscreen="" width="504" height="284" frameborder="0"></iframe>

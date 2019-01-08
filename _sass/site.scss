@@ -206,6 +206,7 @@ header .entry-meta {
         border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
+				background-repeat: no-repeat;
         background-position: center center;
     }
     @media #{$notsmall} {
@@ -217,6 +218,7 @@ header .entry-meta {
         border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
+				background-repeat: no-repeat;
         background-position: center center;
     }
 }
