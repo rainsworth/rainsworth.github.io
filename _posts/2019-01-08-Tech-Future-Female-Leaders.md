@@ -52,7 +52,7 @@ During the first workshop, we also defined our values and what success means to 
 
 ![https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop1.jpeg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop1.jpeg)
 
-{% include googleDrivePlayer.html id=page.1nej_FxtNm1NjmGeLg-mfqYBwDMaEOVhJ/preview %}
+<iframe src="https://drive.google.com/file/d/1nej_FxtNm1NjmGeLg-mfqYBwDMaEOVhJ/preview" width="640" height="480"> </iframe>
 
 #### Workshop 2: Building Confidence
 
