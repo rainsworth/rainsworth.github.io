@@ -52,7 +52,7 @@ During the first workshop, we also defined our values and what success means to 
 
 ![https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop1.jpeg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop1.jpeg)
 
-<iframe src="https://drive.google.com/file/d/1nej_FxtNm1NjmGeLg-mfqYBwDMaEOVhJ/preview"> </iframe>
+<center><iframe src="https://drive.google.com/file/d/1nej_FxtNm1NjmGeLg-mfqYBwDMaEOVhJ/preview" width="640" height="480"> </iframe></center>
 
 #### Workshop 2: Building Confidence
 
@@ -60,7 +60,7 @@ The second workshop on "Building Confidence" was therefore the one I was most lo
 
 ![https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop2.jpeg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop2.jpeg)
 
-<iframe src="https://drive.google.com/file/d/1dyZWpy9tsRgW_Ye5-vM2yNT8gsoqlH5R/preview"> </iframe>
+<center><iframe src="https://drive.google.com/file/d/1dyZWpy9tsRgW_Ye5-vM2yNT8gsoqlH5R/preview" width="640" height="480"> </iframe></center>
 
 #### Workshop 3: Personal Brand
 
@@ -72,7 +72,7 @@ The second workshop on "Building Confidence" was therefore the one I was most lo
 
 ![https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/panel.jpeg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/panel.jpeg)
 
-<iframe src="https://drive.google.com/file/d/1wZuReiZABOO48gkDBR-XS27jW9UofMIK/preview"> </iframe>
+<center><iframe src="https://drive.google.com/file/d/1wZuReiZABOO48gkDBR-XS27jW9UofMIK/preview" width="640" height="480"> </iframe></center>
 
 #### Workshop 4: Technical Leadership
 
@@ -82,6 +82,6 @@ The theme of the final session was "Technical Leadership" where James Heggs of [
 
 #### In summary
 
-Through the TFFL programme I have been able to identify my own natural strengths and how to adapt these within my role as a Research Associate at the University of Manchester. For example, I knew I was passionate about openness and inclusion in research, but learning how my people focused strengths can positively benefit a team has been incredibly empowering - it helps me see where I fit within the team and reduces imposter syndrome. I've also learned a lot about building my personal brand and developing my voice around my expertise, in particular around advocating open research practices and empowering women in STEM. That this professional development course was conducted external to the University added value, as the diversity of topics covered and perspectives of the women within the cohort are ultimately what made this programme so engaging and successful. I am now able to bring this development back into academia, apply it to my current projects and build my future teams with a fresh approach. I have gained confidence within the workplace, increased exposure for my expertise, received invitations to speak at various events, and have built a support network across Greater Manchester. These connections will foster collaboration and help maximise the impact and reach of work conducted here at the University of Manchester.
+Through the TFFL programme I have been able to identify my own natural strengths and how to adapt these within my role as a Research Associate at the University of Manchester. For example, I knew I was passionate about openness and inclusion in research, but learning how my people focused strengths can positively benefit a team has been incredibly empowering - it helps me see where I fit within the team and reduces imposter syndrome. I've also learned a lot about building my personal brand and developing my voice around my expertise, in particular around advocating open research practices and empowering women in STEM. That this professional development course was conducted external to the University added value, as the diversity of topics covered and perspectives of the women within the cohort are ultimately what made this programme so engaging and successful. I am now able to bring this development back into academia, apply it to my current projects and build my future teams with a fresh approach. I have gained confidence within the workplace, increased exposure for my expertise, received invitations to speak at various events, and have built a support network across Greater Manchester. 
 
 Applications are now open for cohort 2 starting in early 2019, so please get in touch with [Beckie](https://www.linkedin.com/in/beckie-taylor-92840712/) if you would like to get on board or feel free to comment below/[tweet at me](https://twitter.com/rachaelevelyn) with any questions!
