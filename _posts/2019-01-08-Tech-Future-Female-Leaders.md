@@ -52,7 +52,7 @@ During the first workshop, we also defined our values and what success means to 
 
 ![https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop1.jpeg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop1.jpeg)
 
-<iframe src="https://drive.google.com/file/d/1nej_FxtNm1NjmGeLg-mfqYBwDMaEOVhJ/preview" width="640" height="480"> </iframe>
+<iframe src="https://drive.google.com/file/d/1nej_FxtNm1NjmGeLg-mfqYBwDMaEOVhJ/preview"> </iframe>
 
 #### Workshop 2: Building Confidence
 
@@ -60,7 +60,7 @@ The second workshop on "Building Confidence" was therefore the one I was most lo
 
 ![https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop2.jpeg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/workshop2.jpeg)
 
-<iframe src="https://drive.google.com/file/d/1dyZWpy9tsRgW_Ye5-vM2yNT8gsoqlH5R/preview" width="640" height="480"> </iframe>
+<iframe src="https://drive.google.com/file/d/1dyZWpy9tsRgW_Ye5-vM2yNT8gsoqlH5R/preview"> </iframe>
 
 #### Workshop 3: Personal Brand
 
@@ -72,7 +72,7 @@ The second workshop on "Building Confidence" was therefore the one I was most lo
 
 ![https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/panel.jpeg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/panel.jpeg)
 
-<iframe src="https://drive.google.com/file/d/1wZuReiZABOO48gkDBR-XS27jW9UofMIK/preview" width="640" height="480"> </iframe>
+<iframe src="https://drive.google.com/file/d/1wZuReiZABOO48gkDBR-XS27jW9UofMIK/preview"> </iframe>
 
 #### Workshop 4: Technical Leadership
 
