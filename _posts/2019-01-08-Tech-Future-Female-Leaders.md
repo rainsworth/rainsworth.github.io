@@ -3,8 +3,8 @@ layout: post
 title:  "Tech Future Female Leaders: Cohort 1 Recap"
 date:   2019-01-04
 excerpt: "My experience as a member of the first cohort of the Tech Future Female Leaders programme."
-tags: [Women in STEM, TFFL]
-feature: /assets/img/posts/TFFL/TFFL_logo.jpeg
+tags: [Women in STEM, TFFL, Video]
+feature: https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/TFFL_logo.jpeg
 comments: true
 ---
 
@@ -82,6 +82,6 @@ The theme of the final session was "Technical Leadership" where James Heggs of [
 
 #### In summary
 
-Through the TFFL programme I have been able to identify my own natural strengths and how to adapt these within my role as a Research Associate at the University of Manchester. For example, I knew I was passionate about openness and inclusion in research, but learning how my people focused strengths can positively benefit a team has been incredibly empowering - it helps me see where I fit within the team and reduces imposter syndrome. I've also learned a lot about building my personal brand and developing my voice around my expertise, in particular around advocating open research practices and empowering women in STEM. That this professional development course was conducted external to the University added value, as the diversity of topics covered and perspectives of the women within the cohort are ultimately what made this programme so engaging and successful. I am now able to bring this development back into academia, apply it to my current projects and build my future teams with a fresh approach. I have gained confidence within the workplace, increased exposure for my expertise, received invitations to speak at various events, and have built a support network across Greater Manchester. 
+Through the TFFL programme I have been able to identify my own natural strengths and how to adapt these within my role as a Research Associate at the University of Manchester. For example, I knew I was passionate about openness and inclusion in research, but learning how my people focused strengths can positively benefit a team has been incredibly empowering - it helps me see where I fit within the team and reduces imposter syndrome. I've also learned a lot about building my personal brand and developing my voice around my expertise, in particular around advocating open research practices and empowering women in STEM. That this professional development course was conducted external to the University added value, as the diversity of topics covered and perspectives of the women within the cohort are ultimately what made this programme so engaging and successful. I am now able to bring this development back into academia, apply it to my current projects and build my future teams with a fresh approach. I have gained confidence within the workplace, increased exposure for my expertise, received invitations to speak at various events, and have built a support network across Greater Manchester.
 
 Applications are now open for cohort 2 starting in early 2019, so please get in touch with [Beckie](https://www.linkedin.com/in/beckie-taylor-92840712/) if you would like to get on board or feel free to comment below/[tweet at me](https://twitter.com/rachaelevelyn) with any questions!
