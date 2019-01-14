@@ -208,6 +208,7 @@ header .entry-meta {
         background-blend-mode: multiply;
 				background-repeat: no-repeat;
         background-position: center center;
+				background-size: cover;
     }
     @media #{$notsmall} {
         color: white;
@@ -220,5 +221,6 @@ header .entry-meta {
         background-blend-mode: multiply;
 				background-repeat: no-repeat;
         background-position: center center;
+				background-size: cover;
     }
 }
