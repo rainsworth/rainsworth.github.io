@@ -80,10 +80,12 @@ The second workshop on "Building Confidence" was therefore the one I was most lo
 
 The theme of the final session was "Technical Leadership" where James Heggs of [CLOS Consultancy](https://closconsultancy.com/) presented on exploring technical processes, how to effectively communicate with teams/stakeholders and work effectively as a technical team. We discussed the challenges and benefits to microservices vs monolithic architectures and how to understand their impact within your organisation. We also talked about considering non-functional requirements (e.g. reproducibility, accessibility, interoperability) in technical leadership. I couldn't help but ponder the contrasts between academia and "tech" through these discussions - how much more efficient research could be if academia operated in this way and how it *can't* function without reproducibility. The course ended by recapping our achievements, goal setting for the future, and a celebratory drink at the Alchemist!
 
-*(Fourth workshop video coming soon!)*
+<center><iframe src="https://www.youtube.com/embed/0tKlUOGJcxM" width="560" height="315"> </iframe></center>
 
 #### In summary
 
 Through the TFFL programme I have been able to identify my own natural strengths and how to adapt these within my role as a Research Associate at the University of Manchester. For example, I knew I was passionate about openness and inclusion in research, but learning how my people focused strengths can positively benefit a team has been incredibly empowering - it helps me see where I fit within the team and reduces imposter syndrome. I've also learned a lot about building my personal brand and developing my voice around my expertise, in particular around advocating open research practices and empowering women in STEM. That this professional development course was conducted external to the University added value, as the diversity of topics covered and perspectives of the women within the cohort are ultimately what made this programme so engaging and successful. I am now able to bring this development back into academia, apply it to my current projects and build my future teams with a fresh approach. I have gained confidence within the workplace, increased exposure for my expertise, received invitations to speak at various events, and have built a support network across Greater Manchester.
+
+<center><iframe src="https://www.youtube.com/embed/6SlFIPErn6A" width="560" height="315"> </iframe></center>
 
 Applications are now open for cohort 2 starting in early 2019, so please get in touch with [Beckie](https://www.linkedin.com/in/beckie-taylor-92840712/) if you would like to get on board or feel free to comment below/[tweet at me](https://twitter.com/rachaelevelyn) with any questions!
