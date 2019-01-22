@@ -28,6 +28,8 @@ comments: true
 * [Women In Tech Christmas Bonanza: The Round Up by Hello Soda](https://hellosoda.com/women-tech-christmas-bonanza-round-up/)
 * [Women In Tech Christmas Bonanza Report by Digital Gurus](https://digitalgurus.online/uk/blog/women-in-tech-christmas-bonanza-report/)
 
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/IuMsxtlzv0E"> </iframe></center>
+
 
 # Mozilla Open Leaders
 
@@ -48,10 +50,11 @@ comments: true
 * [Mozilla Pulse](https://www.mozillapulse.org/entry/460)
 * [Open Innovation interview](https://medium.com/mozilla-festival/if-you-let-others-jump-on-board-your-ship-can-sail-faster-and-go-further-open-innovation-at-43a19225cc27)
 * [What resources do we need to break down barriers to open science? #MozFest 2017 session recap (blog post)](https://medium.com/@rainsworth/what-resources-do-we-need-to-break-down-barriers-to-open-science-mozfest-2017-session-recap-bc5562553c72)
-* [eLife open science soapbox: Rachael Ainsworth shares Resources for Open Science in Astronomy (video)](https://youtu.be/uyPqJ1eGR_A)
 * [eLife at MozFest 2017 repo](https://github.com/npscience/eLife-at-MozFest2017/issues/3)
 * [eLife Fostering collaboration at MozFest recap](https://elifesciences.org/labs/7b73319e/fostering-collaboration-at-mozfest?utm_source=tw2&utm_campaign=MozFest)
 * [Software Sustainability Institute's blog post on MozFest 2017](https://software.ac.uk/blog/2018-01-15-mozfest-2017)
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/uyPqJ1eGR_A"> </iframe></center>
 
 #### Mozilla Global Sprint 2018
 * [Mozilla Pulse](https://www.mozillapulse.org/entry/684)
@@ -67,10 +70,12 @@ comments: true
 # Open Science
 
 #### Open Science Fair 2017
-* [Open Science Fair 2017 (video)](https://vimeo.com/233290266)
+
+<center><iframe src="https://player.vimeo.com/video/238898068" width="640" height="360"> </iframe></center>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/5sqrLNsGJSM"> </iframe></center>
+
 * [GROW, Open Science and a New Social Contract](https://medium.com/grow-observatory-blog/grow-open-science-and-a-new-social-contract-1f4684f6528b)
-* [GROW Open Science Fair 2017 interview (video)](https://vimeo.com/238898068)
-* [FOSTER Open Science interview (video)](https://www.youtube.com/channel/UCeVAPU_TJwVIfL6lACfhkNw)
 * [Research Fortnight interview - UCL leads rebellion against big publishers](https://www.researchresearch.com/news/article/?articleId=1372889)
 * [Nature interview - Data management made simple](https://www.nature.com/articles/d41586-018-03071-1)
 
@@ -83,6 +88,18 @@ comments: true
 * [OpenCon 2017 blog post](https://medium.com/@rainsworth/opencon-2017-7a2a5167c8a3)
 * [An Astronomy Open Science Champion’s experience of OpenCon2017 (guest blog post on UoM Library Research Plus)](https://blog.research-plus.library.manchester.ac.uk/2017/12/04/an-astronomy-open-science-champions-experience-of-opencon2017/)
 * [Reflections on the Open Science conferences of 2017 blog post](https://medium.com/@rainsworth/reflections-on-the-open-science-conferences-of-2017-bfcaac8fdb0b)
+
+# Tech Future Female Leaders
+
+<center><iframe src="https://www.youtube.com/embed/jTmTMFDTcVs" width="560" height="315"> </iframe></center>
+
+<center><iframe src="https://www.youtube.com/embed/2L8svxnCd-s" width="560" height="315"> </iframe></center>
+
+<center><iframe src="https://www.youtube.com/embed/gzE0zCvyIX8" width="560" height="315"> </iframe></center>
+
+<center><iframe src="https://www.youtube.com/embed/0tKlUOGJcxM" width="560" height="315"> </iframe></center>
+
+<center><iframe src="https://www.youtube.com/embed/6SlFIPErn6A" width="560" height="315"> </iframe></center>
 
 
 # Twitter threads from conferences/events
