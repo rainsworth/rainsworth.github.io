@@ -177,6 +177,28 @@ Speakers: [Anne Sloman](https://twitter.com/anne_sloman) (Red Tiger Consulting),
 
 Attendees: ~50
 
+## 2019 Events
+
+### 14. [February](https://www.meetup.com/HER-Data-MCR/events/258153418/)
+
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/14social.png)
+
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/14group.jpg)
+
+Host: [BookingGo](https://www.linkedin.com/company/bookinggo/)
+
+Speakers: [Bella Vartanyan](https://twitter.com/bellsmv) (BookingGo), [Robyn Ellis](https://twitter.com/robynytweet) (BookingGo), [Hannah Jepson](https://www.linkedin.com/in/hannah-jepson-5a77a65a/) (BookingGo) filled in for [Karen Wilson](https://www.linkedin.com/in/karen-wilson-94b1ab17/)
+
+Attendees: ~50
+
+### 15. [March](https://www.meetup.com/HER-Data-MCR/events/259262294/)
+
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/14social.png)
+
+Host: [Peak](https://peak.ai/)
+
+Speakers: [Areeb Alowisheq](https://www.linkedin.com/in/areeb-alowisheq/) (Al-Imam Muhammad Ibn Saud University), [Kathryn Smith](https://www.linkedin.com/in/kathryn-smith1976/) (Sopra Steria), [Lauren Rodgers](https://www.linkedin.com/in/lauren-rodgers-413677109/) (Peak)
+
 
 ### Other events:
 
