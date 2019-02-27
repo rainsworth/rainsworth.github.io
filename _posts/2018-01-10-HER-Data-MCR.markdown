@@ -193,7 +193,7 @@ Attendees: ~50
 
 ### 15. [March](https://www.meetup.com/HER-Data-MCR/events/259262294/)
 
-![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/14social.png)
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/15social.png)
 
 Host: [Peak](https://peak.ai/)
 
