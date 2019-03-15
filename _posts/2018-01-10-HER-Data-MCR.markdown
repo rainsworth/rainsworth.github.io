@@ -193,11 +193,15 @@ Attendees: ~50
 
 ### 15. [March](https://www.meetup.com/HER-Data-MCR/events/259262294/)
 
-![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/15social.png)
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/15social2.png)
+
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/15group.jpg)
 
 Host: [Peak](https://peak.ai/)
 
-Speakers: [Areeb Alowisheq](https://www.linkedin.com/in/areeb-alowisheq/) (Al-Imam Muhammad Ibn Saud University), [Kathryn Smith](https://www.linkedin.com/in/kathryn-smith1976/) (Sopra Steria), [Lauren Rodgers](https://www.linkedin.com/in/lauren-rodgers-413677109/) (Peak)
+Speakers: [Areeb Alowisheq](https://www.linkedin.com/in/areeb-alowisheq/) (Al-Imam Muhammad Ibn Saud University), [Kathryn Smith](https://www.linkedin.com/in/kathryn-smith1976/) (Sopra Steria), [Amy Szadziewska](https://www.linkedin.com/in/amyszadziewska/) and [Kirsty Parsons](https://www.linkedin.com/in/kirsty-parsons-60ab68109/) filled in for [Lauren Rodgers](https://www.linkedin.com/in/lauren-rodgers-413677109/) (Peak)
+
+Attendees: ~35
 
 
 ### Other events:
