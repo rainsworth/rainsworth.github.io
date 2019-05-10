@@ -204,6 +204,32 @@ Speakers: [Areeb Alowisheq](https://www.linkedin.com/in/areeb-alowisheq/) (Al-Im
 Attendees: ~35
 
 
+### 16. [April](https://www.meetup.com/HER-Data-MCR/events/259988102/)
+
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/16social.png)
+
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/16group.jpg)
+
+Host: [Dept](https://www.deptagency.com/en-gb/office/manchester/), [e3creative](https://www.e3creative.co.uk/)
+
+Speakers: [Zainab Peera](https://www.linkedin.com/in/zainabpeera/) (Worldpay), [Melissa Hermitt](https://www.linkedin.com/in/melissahermitt/) (Dept), [Bethan Blakeley](https://twitter.com/HoneycombBethan) (Honeycomb Analytics), [Leanne Fitzpatrick](https://twitter.com/LK_Fitzpatrick) (Hello Soda).
+
+Attendees: ~40
+
+
+### 17. [May](https://www.meetup.com/HER-Data-MCR/events/260938998/)
+
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/17social.png)
+
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/17group.JPG)
+
+Host: [Hello Soda](https://hellosoda.com/)
+
+Speakers: [Lucy Walker](https://twitter.com/LucyIWalker) (Manchester Metropolitan University), [Francesca Crossley](https://www.linkedin.com/in/francesca-crossley/) (Moneysupermarket Group), [Bernadette Clarke](https://www.linkedin.com/in/bernadetteclarke/) (Evolution Recruitment Solutions) Salary Negotiation Masterclass.
+
+Attendees: ~45
+
+
 ### Other events:
 
 - [Manchester Hacktoberfest by PyDataMCR, PyLadiesNW, and HER+Data](https://www.eventbrite.com/e/manchester-hacktoberfest-by-pydatamcr-pyladiesnw-and-herdata-tickets-50085693658#)
