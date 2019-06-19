@@ -230,6 +230,19 @@ Speakers: [Lucy Walker](https://twitter.com/LucyIWalker) (Manchester Metropolita
 Attendees: ~45
 
 
+### 18. [June](https://www.meetup.com/HER-Data-MCR/events/261612439/)
+
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/18social.png)
+
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/18group.jpg)
+
+Host: [Thoughtworks](https://www.thoughtworks.com/locations/manchester)
+
+Speakers: [Jessica Winters](https://twitter.com/sudojess) (Freelance Creative Specialist), [Annie Mbako](https://twitter.com/nieniedoo) (The Heroworx Institute), [Amy Lynch](https://twitter.com/Amy_Lynch) (Thoughtworks).
+
+Attendees: ~30
+
+
 ### Other events:
 
 - [Manchester Hacktoberfest by PyDataMCR, PyLadiesNW, and HER+Data](https://www.eventbrite.com/e/manchester-hacktoberfest-by-pydatamcr-pyladiesnw-and-herdata-tickets-50085693658#)
