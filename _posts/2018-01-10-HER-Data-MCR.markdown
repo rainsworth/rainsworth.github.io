@@ -232,7 +232,7 @@ Attendees: ~45
 
 ### 18. [June](https://www.meetup.com/HER-Data-MCR/events/261612439/)
 
-![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/18social.png)
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/18social2.png)
 
 ![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/projects/herplusdatamcr/18group.jpg)
 
