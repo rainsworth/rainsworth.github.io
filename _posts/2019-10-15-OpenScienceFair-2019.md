@@ -11,9 +11,8 @@ comments: true
 
 # Day 1
 
-| ![OSF2019_1.jpg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/OpenScience/OSF2019_1.jpg) | 
-|:--:| 
-| *Photo courtesy of [The Open Science Fair](https://photos.google.com/share/AF1QipOfgOevKS2bLi_XOA1Lsis85Pfljimtuva7zVKirLt0V50g8IujLcTcyviCOyTB7w?key=UGlyLWVmQ0dRcFhKOHdZU2FqWXdGWU1ZUGhYdWZ3)* |
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/OpenScience/OSF2019_1.jpg)  
+*Photo courtesy of [The Open Science Fair](https://photos.google.com/share/AF1QipOfgOevKS2bLi_XOA1Lsis85Pfljimtuva7zVKirLt0V50g8IujLcTcyviCOyTB7w?key=UGlyLWVmQ0dRcFhKOHdZU2FqWXdGWU1ZUGhYdWZ3)*
 
 Yannis Ioannidis (Head of OpenAIRE, President and General Director of ATHENA Research and Innovation Center) opened the second Open Science Fair by highlighting that the PI of the recent exoplanet discovery with water vapour claimed that "this would not have been possible without data that was open".
 
@@ -25,13 +24,11 @@ We then broke out into parallel sessions and I joined the workshop “Lessons Le
 
 Day 1 ended with the Poster Session, and I presented a one minute lightning talk about my poster on “The Turing Way: A Handbook for Reproducible Data Science” which you can find on Zenodo [here](http://doi.org/10.5281/zenodo.3381446) (and you can read a blog post about *The Turing Way* by SSI Fellow Becky Arnold [here](https://software.ac.uk/blog/2019-03-05-turing-way-open-source-resource-promoting-best-practice-reproducible-research)).
 
-| ![OSF2019_2.jpg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/OpenScience/OSF2019_2.jpg) | 
-|:--:| 
-| *Photo courtesy of [The Open Science Fair](https://photos.google.com/share/AF1QipOfgOevKS2bLi_XOA1Lsis85Pfljimtuva7zVKirLt0V50g8IujLcTcyviCOyTB7w?key=UGlyLWVmQ0dRcFhKOHdZU2FqWXdGWU1ZUGhYdWZ3)* |
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/OpenScience/OSF2019_2.jpg)  
+*Photo courtesy of [The Open Science Fair](https://photos.google.com/share/AF1QipOfgOevKS2bLi_XOA1Lsis85Pfljimtuva7zVKirLt0V50g8IujLcTcyviCOyTB7w?key=UGlyLWVmQ0dRcFhKOHdZU2FqWXdGWU1ZUGhYdWZ3)* 
 
-| ![OSF2019_3.jpg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/OpenScience/OSF2019_3.jpg) | 
-|:--:| 
-| *Photo by Rachael Ainsworth* |
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/OpenScience/OSF2019_3.jpg)  
+*Photo by Rachael Ainsworth* 
 
 
 # Day 2
@@ -40,9 +37,8 @@ Day 2 began with a panel on Research Assessment (you can watch the panel video [
 
 I next attended the workshop “Time to Professionalise Data Stewardship” (you can find the workshop materials on Zenodo [here](http://doi.org/10.5281/zenodo.3420179)). The transition to Open Science and FAIR data requires increased provision and professionalism of data stewardship, but how do we pay data stewards? What do they do all day? What is the career progression? The workshop began with a mix of case study presentations focussing on the need for professionalising data stewardship roles and how to go from theory and policy to practice and implementation. I couldn’t help but notice the similarities between working to professionalise this role and the Research Software Engineer role which has been professionalised in the UK, and I think these communities could learn a lot from each other! We were then divided into discussion groups, and I joined the topic Community of Practice for Data Stewardship. We identified some of the main challenges of “community” to be: finding your peers, establishing, leading and funding the community, finding the time and resources to network, physical location and differences in education, backgrounds, disciplines, practices and goals. We then discussed best practices of others that we see as an example, identifying the RSE community as an example to follow for formalising the role, organising engagement events (RSEconUK), twitter, a formal society and engaging in the bigger picture. Finally, we discussed how the work of the initiatives presented within the workshop could help, suggesting that they can co-sponsor events/conferences to bring members together, clearly defining the roles/tasks/skills of a data steward to help others identify with the community, raising awareness and providing examples.
 
-| ![OSF2019_4.jpg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/OpenScience/OSF2019_4.jpg) | 
-|:--:| 
-| *Photo courtesy of [The Open Science Fair](https://photos.google.com/share/AF1QipOfgOevKS2bLi_XOA1Lsis85Pfljimtuva7zVKirLt0V50g8IujLcTcyviCOyTB7w?key=UGlyLWVmQ0dRcFhKOHdZU2FqWXdGWU1ZUGhYdWZ3)* |
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/OpenScience/OSF2019_4.jpg)  
+*Photo courtesy of [The Open Science Fair](https://photos.google.com/share/AF1QipOfgOevKS2bLi_XOA1Lsis85Pfljimtuva7zVKirLt0V50g8IujLcTcyviCOyTB7w?key=UGlyLWVmQ0dRcFhKOHdZU2FqWXdGWU1ZUGhYdWZ3)* 
 
 
 # Day 3
@@ -51,13 +47,11 @@ Day 3 began with a panel on Plan S (you can watch the panel video [here](https:/
 
 I gave a quick lightening talk to promote my demo presentation on The Turing Way, and then delivered my demo three times (20 minutes each). I presented on the current state of the project, how we built the community, how to get involved and then walked through the Turing Way [book](https://the-turing-way.netlify.com) and [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/) (my demo presentation slides are on Zenodo [here](http://doi.org/10.5281/zenodo.3403161)). I was also lucky that one of my demonstrations was recorded as part of an episode for the ORION Open Science Podcast which you can listen to [here](https://www.podbean.com/ew/pb-w273g-bffc6f)!
 
- ![OSF2019_5.jpg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/OpenScience/OSF2019_5.jpg) | 
-|:--:| 
-| *Tweet courtesy of [Electra Sifacaki](https://twitter.com/ElectraSif/status/1174279336331005953)* |
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/OpenScience/OSF2019_5.jpg)  
+*Tweet courtesy of [Electra Sifacaki](https://twitter.com/ElectraSif/status/1174279336331005953)* 
 
- ![OSF2019_6.jpg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/OpenScience/OSF2019_6.jpg) | 
-|:--:| 
-| *Photo courtesy of [The Open Science Fair](https://photos.google.com/share/AF1QipOfgOevKS2bLi_XOA1Lsis85Pfljimtuva7zVKirLt0V50g8IujLcTcyviCOyTB7w?key=UGlyLWVmQ0dRcFhKOHdZU2FqWXdGWU1ZUGhYdWZ3)* |
+![](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/OpenScience/OSF2019_6.jpg)  
+*Photo courtesy of [The Open Science Fair](https://photos.google.com/share/AF1QipOfgOevKS2bLi_XOA1Lsis85Pfljimtuva7zVKirLt0V50g8IujLcTcyviCOyTB7w?key=UGlyLWVmQ0dRcFhKOHdZU2FqWXdGWU1ZUGhYdWZ3)* 
 
 
 # tl;dr
