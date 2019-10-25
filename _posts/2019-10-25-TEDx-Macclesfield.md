@@ -7,7 +7,7 @@ tags: [Open Science, Women in STEM, TEDx, Video]
 feature: https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TEDxMacc/tedx-macclesfield-2019-photo-148jpg_47726589062_o.jpg
 comments: true
 ---
-![https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TEDxMacc/TEDx_Macc5_2019_Rachael.jpg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TEDxMacc/TEDx_Macc5_2019_Rachael.jpg)
+![https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TEDxMacc/TEDx_Macc5_2019_Rachael.jpg](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TEDxMacc/TEDx_Macc5_2019_Rachael.jpg)  
 *Illustration by [Marc Makes Comics](https://twitter.com/MARCmakescomics)*
 
 I am terrified of public speaking. Genuinely. Terrified. Or at least I was. Being an academic, this is something I had to confront on a regular basis, as the only real way that others will learn about your research is by presenting it at conferences or through seminars. I spent my PhD years gaining momentum and confidence with respect to presenting, only to have it shattered at the end by a really, ***really***, bad experience. I have been trying to gradually rebuild my confidence and overcome my work-related anxiety ever since.  [Organising HER+Data MCR](https://rainsworth.github.io/HER-Data-MCR/) and being a member of the first cohort of [Tech Future Female Leaders](https://rainsworth.github.io/Tech-Future-Female-Leaders/) have both empowered and inspired me to achieve things that I never set out to achieve - including giving a [TEDx](https://www.ted.com/about/programs-initiatives/tedx-program) talk. 
