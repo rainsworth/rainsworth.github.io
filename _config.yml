@@ -44,10 +44,10 @@ github-url:         rainsworth
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          rachaelainsworth
 #xing:              username
-instagram:          rachaelevelyn
+#instagram:          rachaelevelyn
 #lastfm:            username
 #tumblr:            username
-medium:            '@rainsworth'
+#medium:            '@rainsworth'
 #pinterest:         username
 #foursquare:        username
 #steam:              username
@@ -62,6 +62,7 @@ medium:            '@rainsworth'
 #xmpp:              username@server.com
 #hackernews:        username
 orcid:              0000-0003-2591-9462
+figshare:           Rachael_Ainsworth/4824354
 
 # Gems
 gems:
