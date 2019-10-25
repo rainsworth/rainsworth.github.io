@@ -33,7 +33,7 @@ Following last year's successful event put on by many of the city's Meetup group
 10. Submit 
 11. Be patient
 
-Tania did a quick intro to GitHub, defining terms such as repository, version control, fork, clone and pull request, before walking us through an example contribution to [The Littlest JupyterHub](https://github.com/jupyterhub/the-littlest-jupyterhub). Tania also supplied an excellent [list of beginner friendly issues](https://github.com/PyDataMCR/hacktoberfest-19/blob/master/workable_issues.md) for participants to work on.
+Tania did a quick intro to GitHub, defining terms such as repository, version control, fork, clone and pull request, before walking us through an example contribution to [The Littlest JupyterHub](https://github.com/jupyterhub/the-littlest-jupyterhub). Tania also supplied an excellent [list of beginner friendly issues](https://github.com/PyDataMCR/hacktoberfest-19/blob/master/workable_issues.md) for participants to work on. You can find the slides to her talk [here](https://speakerdeck.com/trallard/contributing-to-open-source-101).
 
 ![https://twitter.com/ixek/status/1185532725756911618](https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/HerPlusDataMCR/tweet4.png)
 
