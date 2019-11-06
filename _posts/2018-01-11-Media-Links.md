@@ -93,6 +93,21 @@ comments: true
 * [Reflections on the Open Science conferences of 2017 blog post](https://medium.com/@rainsworth/reflections-on-the-open-science-conferences-of-2017-bfcaac8fdb0b)
 
 
+#### The Turing Way
+
+* [GitHub repo](https://github.com/alan-turing-institute/the-turing-way/)
+* [Book](https://the-turing-way.netlify.com/)
+* [Zenodo archive of book (and DOI)](http://doi.org/10.5281/zenodo.3233986)
+* [Zenodo community](https://zenodo.org/communities/the-turing-way)
+* [Gitter chat room](https://gitter.im/alan-turing-institute/the-turing-way)
+* [Mailing list](https://tinyletter.com/TuringWay)
+
+
+#### Open Science MOOC
+
+<center><iframe src="https://www.youtube.com/embed/geydm_0jDzM" width="560" height="315"> </iframe></center>
+
+
 #### Open Science Fair 2019
 
 * [Open Science Fair 2019 blog post](https://rainsworth.github.io/OpenScienceFair-2019/)
