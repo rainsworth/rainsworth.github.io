@@ -7,14 +7,17 @@ comments: false
 ---
 
 ## Profile
-Astrophysics PhD with 8+ years of experience solving complex data challenges in Astronomy. First to successfully model properties of young stars at metre wavelengths using terabytes of data from next-generation radio telescopes. Skilled in data collection, cleaning, analysis, visualisation, statistics and communicating insights to both technical and non-technical audiences. Certified FOSTER Open Science Trainer, passionate about promoting openness, inclusion and wellbeing in science and technology. Organiser of the women in data meetup group HER+Data MCR, member of the first cohort of Tech Future Female Leaders, and frequent attendee at other local data science and tech events (Open Data MCR, PyData MCR, Solidarity MCR, MancML, JBCA Machine Learning Club, She Says MCR, Tech Events NW).
+Community Manager and 2019 Fellow of the Software Sustainability Institute. Astrophysics PhD with 8+ years of experience solving complex data challenges in Astronomy. First to successfully model properties of young stars at metre wavelengths using terabytes of data from next-generation radio telescopes. Skilled in data collection, cleaning, analysis, visualisation, statistics and communicating insights to both technical and non-technical audiences. Passionate about promoting openness and inclusion in science and technology. TEDx Macclesfield 2019 speaker on research culture and Open Science. Organiser of the women in data meetup group HER+Data MCR, member of the first cohort of Tech Future Female Leaders, and frequent participant at other local data science and tech events. FOSTER Open Science Trainer and Mozilla Open Leader. Website: rainsworth.github.io 
 
 ## Experience
 
-### Jodrell Bank Centre for Astrophysics (JBCA), University of Manchester
-**Research Associate**  
+### University of Manchester
+**Research Software Community Manager, Software Sustainability Institute (SSI)**  
 Manchester, UK  
-(June 2017 - present)
+(September 2019 - present)
+
+**Research Associate, Jodrell Bank Centre for Astrophysics (JBCA)**  
+(June 2017 - August 2019)
 
 * Leading a project to reduce and analyse eMERLIN data on the Cloud through integration of the CASA pipeline with Project Jupyter.
 * Member of the H2020 RadioNET RINGS project working to develop an algorithm for calibrating dispersive delay corrections in long baseline interferometry, for low frequency radio telescopes such as LOFAR.
