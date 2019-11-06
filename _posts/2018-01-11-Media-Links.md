@@ -27,6 +27,8 @@ comments: true
 * [The analyst’s dirty little secret](https://honeycomb-analytics.com/2018/05/analyst-dirty-little-secret/)
 * [Women In Tech Christmas Bonanza: The Round Up by Hello Soda](https://hellosoda.com/women-tech-christmas-bonanza-round-up/)
 * [Women In Tech Christmas Bonanza Report by Digital Gurus](https://digitalgurus.online/uk/blog/women-in-tech-christmas-bonanza-report/)
+* [Hacktoberfest 2019 blog post](https://rainsworth.github.io/Hacktoberfest2019/)
+
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/IuMsxtlzv0E"> </iframe></center>
 
@@ -79,6 +81,7 @@ comments: true
 * [Research Fortnight interview - UCL leads rebellion against big publishers](https://www.researchresearch.com/news/article/?articleId=1372889)
 * [Nature interview - Data management made simple](https://www.nature.com/articles/d41586-018-03071-1)
 
+
 #### OpenCon 2017
 * [OpenCon project issues](https://github.com/sparcopen/doathon/issues)
 * [OpenCon OpenComm Network project issue](https://github.com/sparcopen/doathon/issues/7)
@@ -88,6 +91,15 @@ comments: true
 * [OpenCon 2017 blog post](https://medium.com/@rainsworth/opencon-2017-7a2a5167c8a3)
 * [An Astronomy Open Science Champion’s experience of OpenCon2017 (guest blog post on UoM Library Research Plus)](https://blog.research-plus.library.manchester.ac.uk/2017/12/04/an-astronomy-open-science-champions-experience-of-opencon2017/)
 * [Reflections on the Open Science conferences of 2017 blog post](https://medium.com/@rainsworth/reflections-on-the-open-science-conferences-of-2017-bfcaac8fdb0b)
+
+
+#### Open Science Fair 2019
+
+* [Open Science Fair 2019 blog post](https://rainsworth.github.io/OpenScienceFair-2019/)
+* [Open Science Fair 2019 poster presentation](https://doi.org/10.5281/zenodo.3381445)
+* [Open Science Fair 2019 demo presentation](https://doi.org/10.5281/zenodo.3403160)
+* [ORION Open Science podcast recording of my demo presentation of the Turing Way](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/)
+
 
 # Tech Future Female Leaders
 
@@ -101,6 +113,15 @@ comments: true
 
 <center><iframe src="https://www.youtube.com/embed/6SlFIPErn6A" width="560" height="315"> </iframe></center>
 
+<center><iframe src="https://www.youtube.com/embed/dSYGzHEklQ0" width="560" height="315"> </iframe></center>
+
+* [Tech Future Female Leaders blog post](https://rainsworth.github.io/Tech-Future-Female-Leaders/)
+
+# TEDx Macclesfield
+
+<center><iframe src="https://www.youtube.com/embed/c-bemNZ-IqA" width="560" height="315"> </iframe></center>
+
+* [TEDx Macclesfield blog post](https://rainsworth.github.io/TEDx-Macclesfield/)
 
 # Twitter threads from conferences/events
 
