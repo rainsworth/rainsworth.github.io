@@ -17,6 +17,15 @@ comments: true
 * [ASTRON/JIVE Daily Image for #CASAVLBI17](http://www.astron.nl/dailyimage/index.html?main.php?date=20171018)
 * [JIVE report on #CASAVLBI17](http://jive.eu/opening-data-processing-casa-vlbi-2017)
 * [RadioNet newsletter](https://www.radionet-org.eu/radionet/?wysija-page=1&controller=email&action=view&email_id=10&user_id=0&wysijap=subscriptions)
+* [Open Science in Astronomy - contributed talk at EWASS 2018](https://doi.org/10.5281/zenodo.1213043)
+* [Reproducibility & Open Science in the SKA Era - contributed talk at the 2019 SKA Science Meeting](https://doi.org/10.5281/zenodo.2631868)
+
+#### Bluedot Festival 2019 
+
+* [The Violent Birth of Stars - presentation slides](https://doi.org/10.6084/m9.figshare.8982392)
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/914KncrM6PM"> </iframe></center>
+
 
 # HER+Data MCR
 
@@ -114,6 +123,15 @@ comments: true
 * [Open Science Fair 2019 poster presentation](https://doi.org/10.5281/zenodo.3381445)
 * [Open Science Fair 2019 demo presentation](https://doi.org/10.5281/zenodo.3403160)
 * [ORION Open Science podcast recording of my demo presentation of the Turing Way](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/)
+
+
+#### Talks and Blog Posts
+
+* [Reproducibility and Open Science - invited talk at the Data Science for Experimental Design workshop](http://doi.org/10.5281/zenodo.1464853)
+* [Reproducibility and Open Science - invited keynote at the Symposium on open science research practices organised by the University of Groningen](https://doi.org/10.6084/m9.figshare.9255638)
+* [Reproducibility and Open Science - invited talk at the JBCA Autumn Computing Sessions](https://doi.org/10.6084/m9.figshare.10303709)
+* [Reproducibility and Open Science - invited talk at the University of Glasgow](https://doi.org/10.6084/m9.figshare.10255727)
+* [Open Science at the University of Glasgow blog post by Frances Cooper](https://software.ac.uk/blog/2019-11-29-open-science-university-glasgow)
 
 
 # Tech Future Female Leaders
