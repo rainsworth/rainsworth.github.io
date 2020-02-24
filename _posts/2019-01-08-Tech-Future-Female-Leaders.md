@@ -8,6 +8,8 @@ feature: https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/maste
 comments: true
 ---
 
+*Feb 2020 Note: Tech Future Female Leaders has been rebranded as [Your Journey into Leadership](https://www.techreturners.com/your-journey-into-leadership/).*
+
 ### Women in STEM
 
 The leaky pipeline - [where fewer women are found at increasingly senior levels of academia](https://wonkhe.com/blogs/considering-the-leaky-pipeline-are-we-missing-the-point-on-leadership-diversity/) - is a well known problem; I only have to look around the department I work in at the University of Manchester to witness it first-hand. During the [2016-17 academic year](https://www.advance-he.ac.uk/resources/2018_HE-stats-report-staff.pdf), the majority of first degree undergraduate students in the UK were female at 55.7%, whereas the percentage of professors who were female was only 24.6%. The statistics are significantly more discouraging for non-white academics.
