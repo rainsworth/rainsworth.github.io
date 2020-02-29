@@ -9,7 +9,7 @@ comments: false
 ## 2020
 
 * [upcoming...] How Open Science can help improve Research Culture (invited talk), What does it mean to be a researcher in 21st century academia?: Effective writing, Publish and/or perish and Open Science, Ghent University, Ghent, Belgium, 8 May 2020
-* [upcoming...] Better Software, Better Research: How the SSI is helping to promote reproducible research (invited talk), Beware: Results May Vary - Openness as a Way of Enhancing Research Quality, University of Manchester, Manchester, UK, 26 February 2020 
+* [Better Software, Better Research: How the SSI is helping to promote reproducible research](https://doi.org/10.6084/m9.figshare.11898450.v1) (invited talk), Beware: Results May Vary - Openness as a Way of Enhancing Research Quality, University of Manchester, Manchester, UK, 28 February 2020 
 * [Reproducibility and Open Research Software](https://doi.org/10.6084/m9.figshare.11762121.v1) (invited talk), Open Research London: The importance and challenges of sharing research software, Institute of Physics, London, UK, 5 February 2020
 
 ## 2019
