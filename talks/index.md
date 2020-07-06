@@ -8,7 +8,8 @@ comments: false
 
 ## 2020
 
-* [upcoming...] How Open Science can help improve Research Culture (invited talk), What does it mean to be a researcher in 21st century academia?: Effective writing, Publish and/or perish and Open Science, Ghent University, Ghent, Belgium, 8 May 2020
+* [upcoming...] Lessons learned from the Software Sustainability Institute's Collaborations Workshop 2020 Online (invited talk), Intelligent Systems for Molecular Biology (ISMB) 2020, Online, 13 July 2020
+* [Introduction to Using GitHub](https://doi.org/10.5281/zenodo.3932346) (invited talk, [video](https://vimeo.com/435771660), [resources](https://github.com/rainsworth/intro-to-github/tree/v1.0)), Open Data Manchester: Pick N Mix, Manchester, UK, 30 June 2020
 * [Better Software, Better Research: How the SSI is helping to promote reproducible research](https://doi.org/10.6084/m9.figshare.11898450.v1) (invited talk), Beware: Results May Vary - Openness as a Way of Enhancing Research Quality, University of Manchester, Manchester, UK, 28 February 2020 
 * [Reproducibility and Open Research Software](https://doi.org/10.6084/m9.figshare.11762121.v1) (invited talk), Open Research London: The importance and challenges of sharing research software, Institute of Physics, London, UK, 5 February 2020
 
