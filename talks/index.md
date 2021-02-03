@@ -8,6 +8,9 @@ comments: false
 
 ## 2020
 
+* Supporting collaborative projects - how community managers design programming for different levels of participation (panellist), [JROST 2020 Conference](https://investinopen.org/community/jrost-2020-conference/), Online, 16 December 2020
+* [Community Building](https://docs.google.com/presentation/d/1jeTk_PzsWpaR4DRmBrbrDGol2_drPEizp26o4d8jnnA/edit?usp=sharing) (invited talk), [Open Life Science Cohort call: Open Leadership: Academia, industry and beyond!](https://openlifesci.org/ols-2/schedule/#week-12), Online, 19 November 2020
+* [Challenges and opportunities in transitioning meetings online](https://2020.carpentrycon.org/schedule/#session-57) (contributed session, [Etherpad](https://pad.carpentries.org/cchome-meetings-online), [blog post](https://software.ac.uk/blog/2020-11-26-carpentryconhome-challenges-and-opportunities-transitioning-meetings-online)), [CarpentryCon @ Home](https://2020.carpentrycon.org/), Online, 5 August 2020
 * [Best Practices in Online Training: The Software Sustainability Institute's Experiences and Lessons Learned](https://doi.org/10.6084/m9.figshare.12631118) (invited talk), Intelligent Systems for Molecular Biology (ISMB) 2020, Online, 13 July 2020
 * [Introduction to Using GitHub](https://doi.org/10.5281/zenodo.3932346) (invited talk, [video](https://vimeo.com/435771660), [resources](https://github.com/rainsworth/intro-to-github/tree/v1.0)), Open Data Manchester: Pick N Mix, Manchester, UK, 30 June 2020
 * [Better Software, Better Research: How the SSI is helping to promote reproducible research](https://doi.org/10.6084/m9.figshare.11898450.v1) (invited talk), Beware: Results May Vary - Openness as a Way of Enhancing Research Quality, University of Manchester, Manchester, UK, 28 February 2020 
