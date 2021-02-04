@@ -6,12 +6,16 @@ date: 2020-02-04
 comments: false
 ---
 
+## 2021
+
+* [SSI Fellowship Programme 2021 Launch Webinar](https://doi.org/10.5281/zenodo.4432058) ([video](https://youtu.be/aceXqDJSoxY)), Software Sustainability Institute, Online, 14 January 2021 
+
 ## 2020
 
 * Supporting collaborative projects - how community managers design programming for different levels of participation (panellist), [JROST 2020 Conference](https://investinopen.org/community/jrost-2020-conference/), Online, 16 December 2020
 * [Community Building](https://docs.google.com/presentation/d/1jeTk_PzsWpaR4DRmBrbrDGol2_drPEizp26o4d8jnnA/edit?usp=sharing) (invited talk), [Open Life Science Cohort call: Open Leadership: Academia, industry and beyond!](https://openlifesci.org/ols-2/schedule/#week-12), Online, 19 November 2020
 * [Challenges and opportunities in transitioning meetings online](https://2020.carpentrycon.org/schedule/#session-57) (contributed session, [Etherpad](https://pad.carpentries.org/cchome-meetings-online), [blog post](https://software.ac.uk/blog/2020-11-26-carpentryconhome-challenges-and-opportunities-transitioning-meetings-online)), [CarpentryCon @ Home](https://2020.carpentrycon.org/), Online, 5 August 2020
-* [Best Practices in Online Training: The Software Sustainability Institute's Experiences and Lessons Learned](https://doi.org/10.6084/m9.figshare.12631118) (invited talk), Intelligent Systems for Molecular Biology (ISMB) 2020, Online, 13 July 2020
+* [Best Practices in Online Training: The Software Sustainability Institute's Experiences and Lessons Learned](https://doi.org/10.6084/m9.figshare.12631118) (invited talk, [video](https://youtu.be/DabyF7W6ryM)), Intelligent Systems for Molecular Biology (ISMB) 2020, Online, 13 July 2020
 * [Introduction to Using GitHub](https://doi.org/10.5281/zenodo.3932346) (invited talk, [video](https://vimeo.com/435771660), [resources](https://github.com/rainsworth/intro-to-github/tree/v1.0)), Open Data Manchester: Pick N Mix, Manchester, UK, 30 June 2020
 * [Better Software, Better Research: How the SSI is helping to promote reproducible research](https://doi.org/10.6084/m9.figshare.11898450.v1) (invited talk), Beware: Results May Vary - Openness as a Way of Enhancing Research Quality, University of Manchester, Manchester, UK, 28 February 2020 
 * [Reproducibility and Open Research Software](https://doi.org/10.6084/m9.figshare.11762121.v1) (invited talk), Open Research London: The importance and challenges of sharing research software, Institute of Physics, London, UK, 5 February 2020
@@ -22,7 +26,7 @@ comments: false
 * [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.10303709.v1) (invited talk), JBCA Autumn Computing Sessions, University of Manchester, Manchester, UK, 14 November 2019
 * Leading Success Panel (invited panellist), Reframe WIT, Manchester, UK, 28 October 2019
 * [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.9255638.v1) (invited keynote speaker), Symposium on Open Science, University of Groningen, Groningen, Netherlands, 22 October 2019
-* [Fellowship Programme 2020 Launch Webinar](http://doi.org/10.5281/zenodo.3479489) ([video](https://youtu.be/yeMHbrKdG0s)), Software Sustainability Institute, University of Manchester, UK, 11 October 2019 
+* [SSI Fellowship Programme 2020 Launch Webinar](http://doi.org/10.5281/zenodo.3479489) ([video](https://youtu.be/yeMHbrKdG0s)), Software Sustainability Institute, University of Manchester, UK, 11 October 2019 
 * The Turing Way: A Handbook for Reproducible Data Science  (contributed [poster](http://doi.org/10.5281/zenodo.3381446), [demo](http://doi.org/10.5281/zenodo.3403161), and [podcast recording of demo](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/)), Open Science Fair, Porto, Portugal, 16-18 September 2019
 * [Reproducible Research through Containerisation: Docker and Singularity](https://github.com/rainsworth/osip2019-containerisation-workshop/) (invited talk/workshop), Open Science In Practice, EPFL, Lausanne, Switzerland, 5 September 2019
 * [The Violent Birth of Stars](https://doi.org/10.6084/m9.figshare.8982392.v1) (invited talk, [video](https://youtu.be/914KncrM6PM)), Bluedot Festival, Jodrell Bank Observatory, Cheshire, UK, 21 July 2019
