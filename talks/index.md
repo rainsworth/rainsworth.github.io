@@ -8,6 +8,8 @@ comments: false
 
 ## 2021
 
+* Data FAQs with the UKDataService (invited panellist, [video](https://youtu.be/SvNGA5-wIPs?t=582)), PyData Manchester, Online, 27 April 2021
+* Meet the Confidence Community (invited panellist), Online, 18 February 2021
 * [SSI Fellowship Programme 2021 Launch Webinar](https://doi.org/10.5281/zenodo.4432058) ([video](https://youtu.be/aceXqDJSoxY)), Software Sustainability Institute, Online, 14 January 2021 
 
 ## 2020
