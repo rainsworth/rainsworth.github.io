@@ -10,6 +10,7 @@ comments: false
 
 * Upcoming: Changing times, challenging norms: How are changes in research practice re-shaping our thinking about what research integrity should be? (invited panellist), [OAI12 – The Geneva Workshop on Innovations in Scholarly](https://oai.events/oai12/), Online, 8 September 2021
 * Upcoming: Incentivising sustainable and collaborative research (invited talk), [OAI12 – The Geneva Workshop on Innovations in Scholarly](https://oai.events/oai12/), Online, 8 September 2021
+* Career planning (invited panellist), [Irish National Astronomy Meeting 2021 (INAM 2021)](https://astronomers.ie/inam-2021/), Online, 31 August 2021
 * [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.14710110) (invited keynote talk, [video](https://youtu.be/TkIZ4FIGfBc)), [ESCAPE Summer School](https://indico.in2p3.fr/event/20306/), Online, 7 June 2021
 * Data FAQs with the UKDataService (invited panellist, [video](https://youtu.be/SvNGA5-wIPs?t=582)), PyData Manchester, Online, 27 April 2021
 * Meet the Confidence Community (invited panellist), Online, 18 February 2021
