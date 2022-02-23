@@ -8,10 +8,11 @@ comments: false
 
 ## 2021
 
+* [Good Practices for Collaboration (The Turing Way)](https://doi.org/10.5281/zenodo.5702688) (contributed workshop), [Open Publishing Fest](https://openpublishingfest.org/), Online, 15 November 2021
 * [SSI Fellowship Programme 2022 Launch Webinar](https://doi.org/10.5281/zenodo.5512610) ([video](https://youtu.be/sNcvkVnFMhY)), Software Sustainability Institute, Online, 23 September 2021 
 * [Good Practices for Collaboration (The Turing Way)](https://doi.org/10.5281/zenodo.5511878) (contributed workshop, [video](https://youtu.be/h3GQiw7JGAM)), [Open Science Fair 2021](https://www.opensciencefair.eu/), Online, 21 September 2021
-* Changing times, challenging norms: How are changes in research practice re-shaping our thinking about what research integrity should be? (invited panellist, [video](https://vimeo.com/588305806#t=7035s)), [OAI12 – The Geneva Workshop on Innovations in Scholarly](https://oai.events/oai12/), Online, 8 September 2021
-* [Incentivising sustainable and collaborative research](https://doi.org/10.6084/m9.figshare.14986890) (invited talk, [video](https://vimeo.com/588305806#t=1500s)), [OAI12 – The Geneva Workshop on Innovations in Scholarly](https://oai.events/oai12/), Online, 8 September 2021
+* Changing times, challenging norms: How are changes in research practice re-shaping our thinking about what research integrity should be? (invited panellist, [video](https://vimeo.com/588305806#t=7035s)), [OAI12 – The Geneva Workshop on Innovations in Scholarly Communication](https://oai.events/oai12/), Online, 8 September 2021
+* [Incentivising sustainable and collaborative research](https://doi.org/10.6084/m9.figshare.14986890) (invited talk, [video](https://vimeo.com/588305806#t=1500s)), [OAI12 – The Geneva Workshop on Innovations in Scholarly Communication](https://oai.events/oai12/), Online, 8 September 2021
 * Career planning (invited panellist), [Irish National Astronomy Meeting 2021 (INAM 2021)](https://astronomers.ie/inam-2021/), Online, 31 August 2021
 * [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.14710110) (invited keynote talk, [video](https://youtu.be/TkIZ4FIGfBc)), [ESCAPE Summer School](https://indico.in2p3.fr/event/20306/), Online, 7 June 2021
 * Data FAQs with the UKDataService (invited panellist, [video](https://youtu.be/SvNGA5-wIPs?t=582)), PyData Manchester, Online, 27 April 2021
