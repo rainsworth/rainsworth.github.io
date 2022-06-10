@@ -6,6 +6,9 @@ date: 2020-02-04
 comments: false
 ---
 
+## 2022
+* [The Software Sustainability Institute Community and Events](https://doi.org/10.6084/m9.figshare.20006468) (invited talk), [RSE Midlands Inaugural Meeting](https://rse-midlands.github.io/docs/event-8th-june/), University of Birmingham, 8 June 2022
+
 ## 2021
 
 * [Good Practices for Collaboration (The Turing Way)](https://doi.org/10.5281/zenodo.5702688) (contributed workshop), [Open Publishing Fest](https://openpublishingfest.org/), Online, 15 November 2021
