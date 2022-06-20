@@ -7,6 +7,7 @@ comments: false
 ---
 
 ## 2022
+* [Reproducible and Open Science](https://doi.org/10.6084/m9.figshare.20079179) (invited keynote talk), [ESCAPE Summer School 2022](https://indico.in2p3.fr/event/26913/), LAPP, Annecy, France [presented remotely], 20 June 2022
 * [The Software Sustainability Institute Community and Events](https://doi.org/10.6084/m9.figshare.20006468) (invited talk), [RSE Midlands Inaugural Meeting](https://rse-midlands.github.io/docs/event-8th-june/), University of Birmingham, 8 June 2022
 
 ## 2021
@@ -17,7 +18,7 @@ comments: false
 * Changing times, challenging norms: How are changes in research practice re-shaping our thinking about what research integrity should be? (invited panellist, [video](https://vimeo.com/588305806#t=7035s)), [OAI12 – The Geneva Workshop on Innovations in Scholarly Communication](https://oai.events/oai12/), Online, 8 September 2021
 * [Incentivising sustainable and collaborative research](https://doi.org/10.6084/m9.figshare.14986890) (invited talk, [video](https://vimeo.com/588305806#t=1500s)), [OAI12 – The Geneva Workshop on Innovations in Scholarly Communication](https://oai.events/oai12/), Online, 8 September 2021
 * Career planning (invited panellist), [Irish National Astronomy Meeting 2021 (INAM 2021)](https://astronomers.ie/inam-2021/), Online, 31 August 2021
-* [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.14710110) (invited keynote talk, [video](https://youtu.be/TkIZ4FIGfBc)), [ESCAPE Summer School](https://indico.in2p3.fr/event/20306/), Online, 7 June 2021
+* [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.14710110) (invited keynote talk, [video](https://youtu.be/TkIZ4FIGfBc)), [ESCAPE Summer School 2021](https://indico.in2p3.fr/event/20306/), Online, 7 June 2021
 * Data FAQs with the UKDataService (invited panellist, [video](https://youtu.be/SvNGA5-wIPs?t=582)), PyData Manchester, Online, 27 April 2021
 * Meet the Confidence Community (invited panellist), Online, 18 February 2021
 * [SSI Fellowship Programme 2021 Launch Webinar](https://doi.org/10.5281/zenodo.4432058) ([video](https://youtu.be/aceXqDJSoxY)), Software Sustainability Institute, Online, 14 January 2021 
