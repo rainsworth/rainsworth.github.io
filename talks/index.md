@@ -7,6 +7,7 @@ comments: false
 ---
 
 ## 2022
+* Reproducible and Open Science (invited talk), JBCA Autumn Computing Sessions, University of Manchester, Manchester, UK, 3 November 2022
 * [Reproducible and Open Science](https://doi.org/10.6084/m9.figshare.20079179) (invited keynote talk), [ESCAPE Summer School 2022](https://indico.in2p3.fr/event/26913/), LAPP, Annecy, France [presented remotely], 20 June 2022
 * [The Software Sustainability Institute Community and Events](https://doi.org/10.6084/m9.figshare.20006468) (invited talk), [RSE Midlands Inaugural Meeting](https://rse-midlands.github.io/docs/event-8th-june/), University of Birmingham, 8 June 2022
 
