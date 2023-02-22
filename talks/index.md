@@ -7,6 +7,7 @@ comments: false
 ---
 
 ## 2023
+* [The Software Sustainability Institute Fellows Community](https://doi.org/10.6084/m9.figshare.22137512) (invited lightning talk), Fellowship Information Session, Netherlands eScience Center, Online, 22 February 2023
 * [The Software Sustainability Institute Community and Events: How the SSI supports research software through community-building and events](https://doi.org/10.6084/m9.figshare.21931299) (contributed talk), FOSDEM 2023, ULB, Brussels, Belgium [presented remotely], 4 February 2023
 
 ## 2022
