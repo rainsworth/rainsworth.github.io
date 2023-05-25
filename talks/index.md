@@ -7,7 +7,7 @@ comments: false
 ---
 
 ## 2023
-* [Reproducible data science: The Turing Way](https://doi.org/10.5281/zenodo.7905071) (invited talk), [IAA-CSIC Severo Ochoa SKA Open Science School](https://www.granadacongresos.com/skaopenscience), Instituto de Astrofísica de Andalucía headquarters (IAA-CSIC), Granada, Spain, 9 May 2023
+* [Reproducible data science: The Turing Way](https://doi.org/10.5281/zenodo.7905071) (invited talk, [video](https://e.pcloud.link/publink/show?code=kZA61jZyON4jh7FGARXzqWS78IndJfL5AYX)), [IAA-CSIC Severo Ochoa SKA Open Science School](https://www.granadacongresos.com/skaopenscience), Instituto de Astrofísica de Andalucía headquarters (IAA-CSIC), Granada, Spain, 9 May 2023
 * [The Software Sustainability Institute Fellows Community](https://doi.org/10.6084/m9.figshare.22137512) (invited lightning talk), Fellowship Information Session, Netherlands eScience Center, Online, 22 February 2023
 * [The Software Sustainability Institute Community and Events: How the SSI supports research software through community-building and events](https://doi.org/10.6084/m9.figshare.21931299) (contributed talk, [video](https://fosdem.org/2023/schedule/event/openresearch_software_sustainability_institute/)), FOSDEM 2023, ULB, Brussels, Belgium [presented remotely], 4 February 2023
 
